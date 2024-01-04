@@ -1,0 +1,1651 @@
+
+
+.img img{
+ left: 0px;  
+   position: absolute; 
+width:1475px;
+top:-10px;
+height: 800px;
+
+}
+
+.img .group{
+    width: 235px;
+    height: 24px;
+    top: 30px;
+    left: 50px;
+    
+}
+
+
+li {
+    display: inline-block;
+    margin-right: 40px;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+
+    
+}
+
+a:hover{
+    color:  rgba(210, 49, 102, 1);
+
+}
+
+a:active {
+    color: rgb(0, 60, 255);
+}
+
+
+.nav {
+top: 30px;
+left: 1000px;
+position: relative;
+}
+
+
+.hero{
+    width: 710px;
+    height: 689px;
+    top: 100px;
+    left: 763px;
+position: absolute;
+}
+
+.hero-img{
+    width: 160px;
+    height: 160px;
+    top: 40px;
+    left: 690px;
+position: absolute;
+
+}
+
+.h1{
+    width: 390px;
+    top: 220px;
+    left: 150px;
+    position: absolute;
+font-size:64px;
+
+}
+
+.h2{
+    width: 500px;
+    top: 300px;
+    left: 150px;
+    position: absolute;
+font-size:64px;
+
+}
+
+.p{
+    width: 464px;
+    height: 72px;;
+    top: 450px;
+    left: 150px;
+    position: absolute;
+font-size:18px;
+
+}
+
+
+.button {
+    border: 2px solid rgba(10, 119, 95, 1);
+    background-color: rgba(10, 119, 98, 1); 
+    width: 193px;
+    height: 51px;
+    top: 580px;
+    left: 150px;
+    border-radius: 100px;
+    gap: 10px;  
+    position: absolute;
+}
+
+.button a {
+    color: white;
+position:absolute;
+top: 10px;
+left: 10px;
+font-size:25px;
+
+}
+
+.button:hover {
+    border: 2px solid  rgba(10, 119, 98, 1);
+    color:  rgba(10, 119, 98, 1);
+    background-color: white;
+   color:rgba(10, 119, 98, 1) ;
+}
+
+.button:hover a{
+   color:rgba(10, 119, 98, 1) ;
+}
+
+.image{
+position: absolute;
+width: 1480px;
+height: 1739px;
+top: 820px;
+left: -10px;
+
+}
+
+.image1{
+    position: absolute;
+    width: 1460px;
+    height: 1000px;
+    top: 2600px;
+    left: -10px;
+    
+    }
+
+    .section{
+position: absolute;
+width: 1460px;
+height: 1000px;
+top: 3700px;
+left: -10px;;
+
+
+    }
+
+.checkbox{
+position: absolute;
+width: 55px;
+height: 55px;
+top: 3935px;
+left: 22px;
+
+
+}
+
+
+.checkbox1{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 3935px;
+    left: 494px;
+    
+    
+    }
+
+    .checkbox2{
+        position: absolute;
+        width: 55px;
+        height: 55px;
+        top: 3935px;
+        left: 966px;
+        
+        
+        }
+
+        .button-box {
+            border: 2px solid rgba(201, 155, 103, 1);
+            background-color:rgba(201, 155, 103, 1); 
+            width: 200px;
+            height: 60px;
+            top: 4576px;
+            left: 620px;
+            border-radius: 100px;
+             position: absolute;
+        }
+        
+        .button-box a {
+            color: white;
+        position:absolute;
+        top: 15px;
+        left: 10px;
+        font-size:25px;
+        
+        }
+        
+        .button-box:hover {
+            border: 2px solid  rgba(201, 155, 103, 1);
+            color:  rgba(201, 155, 103, 1);
+            background-color: white;
+           color:rgba(201, 155, 103, 1) ;
+        }
+        
+        .button-box:hover a{
+           color:rgba(201, 155, 103, 1) ;
+        }  
+        
+        
+        .footer{
+position: absolute;
+top: 4750px;
+left:5px;
+
+        }
+
+        .footer1{
+            position: absolute;
+            top: 4820px;
+            left:50px;
+            
+                    }
+
+ li {
+     display: inline-block;
+     margin-right: 40px;
+ 
+ }
+ 
+ 
+ a {
+     text-decoration: none;
+     color: black;
+ 
+     
+ }
+ 
+ a:hover{
+     color:  rgba(210, 49, 102, 1);
+ 
+ }
+ 
+ a:active {
+     color: rgb(0, 60, 255);
+ }
+ 
+ 
+ .nav1 {
+position:absolute;
+top: 4820px;
+ left: 500px;
+z-index: 9;
+ }
+
+
+         li {
+            display: inline-block;
+            margin-right: 30px;
+        
+        }
+        
+   
+        .footer-img {
+       position:absolute;
+       top: 4820px;
+        left: 1200px;
+       z-index: 9;
+        }
+
+
+
+        /* main1 */
+        
+        
+        .imge img{
+            left: 0px;  
+              position: absolute; 
+           width:1475px;
+           top:-10px;
+           height: 800px;
+           left: 2000px;
+           }
+           
+           .imge .grou{
+               width: 235px;
+               height: 24px;
+               top: 30px;
+               left: 2050px;
+               position: absolute;
+           }
+           
+           
+           li {
+               display: inline-block;
+               margin-right: 40px;
+           
+           }
+           
+           
+           a {
+               text-decoration: none;
+               color: black;
+           
+               
+           }
+           
+           a:hover{
+               color:  rgba(210, 49, 102, 1);
+           
+           }
+           
+           a:active {
+               color: rgb(0, 60, 255);
+           }
+           
+           
+           .nav-li {
+           top: -10px;
+           left: 2900px;
+           position: relative;
+           }
+
+           .main1-hero{
+            width: 710px;
+            height: 689px;
+            top: 100px;
+            left: 2763px;
+        position: absolute;
+        }
+        
+        .main1-hero-img{
+            width: 160px;
+            height: 160px;
+            top: 40px;
+            left: 2690px;
+        position: absolute;
+        
+        }
+        
+        .main1-h1{
+            width: 390px;
+            top: 220px;
+            left: 2150px;
+            position: absolute;
+        font-size:64px;
+        
+        }
+        
+        .main1-p{
+            width: 390px;
+            height: 72px;;
+            top: 350px;
+            left: 2150px;
+            position: absolute;
+        font-size:18px;
+        
+        }
+        
+        
+        .main1-button {
+            border: 2px solid rgba(10, 119, 95, 1);
+            background-color: rgba(10, 119, 98, 1); 
+            width: 193px;
+            height: 51px;
+            top: 580px;
+            left: 2150px;
+            border-radius: 100px;
+            gap: 10px;  position: absolute;
+        }
+        
+        .main1-button a {
+            color: white;
+        position:absolute;
+        top: 10px;
+        left: 10px;
+        font-size:25px;
+        
+        }
+        
+        .main1-button:hover {
+            border: 2px solid  rgba(10, 119, 98, 1);
+            color:  rgba(10, 119, 98, 1);
+            background-color: white;
+           color:rgba(10, 119, 98, 1) ;
+        }
+        
+        .main1-button:hover a{
+           color:rgba(10, 119, 98, 1) ;
+        }
+        
+        .main1-image{
+        position: absolute;
+        width: 1480px;
+        height: 740px;
+        top: 820px;
+        left: 1990px;
+        
+        }
+        
+        .main1-image1{
+            position: absolute;
+            width: 1460px;
+            height: 590px;
+            top: 1650px;
+            left: 1990px;
+            
+            }
+
+            .main1-image2{
+                position: absolute;
+                width: 1460px;
+                height: 685px;
+                top: 2250px;
+                left: 1990px;
+                
+                }
+
+                .main1-footer{
+                    position: absolute;
+                    top: 3000px;
+                    left:2000px;
+                    
+                            }
+                    
+                            .main1-footer1{
+                                position: absolute;
+                                top: 3060px;
+                                left:2050px;
+                                
+                                        }
+                    
+                     li {
+                         display: inline-block;
+                         margin-right: 40px;
+                     
+                     }
+                     
+                     
+                     a {
+                         text-decoration: none;
+                         color: black;
+                     
+                         
+                     }
+                     
+                     a:hover{
+                         color:  rgba(210, 49, 102, 1);
+                     
+                     }
+                     
+                     a:active {
+                         color: rgb(0, 60, 255);
+                     }
+                     
+                     
+                     .main1-nav1 {
+                    position:absolute;
+                    top: 3060px;
+                     left: 2500px;
+                    z-index: 9;
+                width: 500px;     
+                }
+                    
+                    
+                             li {
+                                display: inline-block;
+                                margin-right: 30px;
+                            
+                            }
+                            
+                       
+                            .main1-footer-img {
+                           position:absolute;
+                           top: 3060px;
+                            left: 3200px;
+                           z-index: 9;
+                            width: 300px;
+                        }
+                    
+
+
+                         /* main2 */
+
+
+                         .main2-img{
+                     
+                              position: absolute; 
+                           width:1475px;
+                           top:-10px;
+                           height: 800px;
+                           left: 4000px;
+                           }
+                           
+                           .main2-group{
+                               width: 235px;
+                               height: 24px;
+                               top: 30px;
+                               left: 50px;
+                               position: absolute;
+                           }
+                           
+                           
+                           li {
+                               display: inline-block;
+                               margin-right: 40px;
+                           
+                           }
+                           
+                           
+                           a {
+                               text-decoration: none;
+                               color: black;
+                           
+                               
+                           }
+                           
+                           a:hover{
+                               color:  rgba(210, 49, 102, 1);
+                           
+                           }
+                           
+                           a:active {
+                               color: rgb(0, 60, 255);
+                           }
+                           
+                           
+                           .main2-nav-li {
+                           top: -55px;
+                           left: 4900px;
+                           position: relative;
+                           }
+
+                           .main2-hero{
+                            width: 710px;
+                            height: 689px;
+                            top: 100px;
+                            left: 4730px;
+                        position: absolute;
+                        }
+                        
+                        .main2-hero-img{
+                            width: 160px;
+                            height: 160px;
+                            top: 40px;
+                            left: 4690px;
+                        position: absolute;
+                        
+                        }
+                        
+                        .main2-h1{
+                            width: 390px;
+                            top: 220px;
+                            left: 4150px;
+                            position: absolute;
+                        font-size:64px;
+                        
+                        }
+                        
+                        .main2-p{
+                            width: 390px;
+                            height: 72px;;
+                            top: 350px;
+                            left: 4150px;
+                            position: absolute;
+                        font-size:18px;
+                        
+                        }
+                        
+                        
+                        .main2-button {
+                            border: 2px solid rgba(10, 119, 95, 1);
+                            background-color: rgba(10, 119, 98, 1); 
+                            width: 193px;
+                            height: 51px;
+                            top: 580px;
+                            left: 4150px;
+                            border-radius: 100px;
+                            gap: 10px;  position: absolute;
+                        }
+                        
+                        .main2-button a {
+                            color: white;
+                        position:absolute;
+                        top: 10px;
+                        left: 10px;
+                        font-size:25px;
+                        
+                        }
+                        
+                        .main2-button:hover {
+                            border: 2px solid  rgba(10, 119, 98, 1);
+                            color:  rgba(10, 119, 98, 1);
+                            background-color: white;
+                           color:rgba(10, 119, 98, 1) ;
+                        }
+                        
+                        .main2-button:hover a{
+                           color:rgba(10, 119, 98, 1) ;
+                        } 
+                        
+                        .main2-image{
+                            position: absolute;
+                            width: 1470px;
+                            height: 650px;
+                            top: 820px;
+                            left: 3990px;
+                            
+                            }
+
+                            .main2-checkbox{
+                                position: absolute;
+                                width: 55px;
+                                height: 55px;
+                                top: 900px;
+                                left: 4022px;
+                                
+                                
+                                }
+                                
+                                
+                                .main2-checkbox1{
+                                    position: absolute;
+                                    width: 55px;
+                                    height: 55px;
+                                    top: 900px;
+                                    left: 4497px;
+                                    
+                                    
+                                    }
+                                
+                                    .main2-checkbox2{
+                                        position: absolute;
+                                        width: 55px;
+                                        height: 55px;
+                                        top: 900px;
+                                        left: 4974px;
+                                        
+                                        
+                                        }
+
+                                   
+.main3-image4{
+
+    position: absolute;
+    width: 1470px;
+    height:  1500px;
+    top: 1495px;
+    left: 3990px; 
+}
+
+ 
+.Capsule{
+position: absolute;
+    width: 211px;
+    height: 285px;
+    top: 1645px;
+    left: 4619px;
+    background-color:rgb(178, 231, 219);
+
+}
+
+.Capsule:hover{
+    
+        background-color:rgba(10, 119, 95, 1);
+        color: aliceblue;
+    }
+
+    .Capsule h2{
+        position: absolute;
+            font-size:24px;
+           left: 15px; 
+           top: 20px;
+        }
+
+        .Capsule p{
+            position: absolute;
+                font-size:24px;
+               left: 15px; 
+            top: 60px;
+            }
+
+
+.Filter{
+    position: absolute;
+        width: 211px;
+        height: 285px;
+        top: 1645px;
+        left: 4850px;
+        background-color:rgb(178, 231, 219);
+    
+    }
+
+    .Filter:hover{
+    
+        background-color:rgba(10, 119, 95, 1);
+    color: aliceblue;
+    }
+
+    .Filter h2{
+        position: absolute;
+            font-size:24px;
+           left: 15px; 
+           top: 20px;
+        }
+
+        .Filter p{
+            position: absolute;
+                font-size:24px;
+               left: 15px; 
+            top: 60px;
+            }
+
+
+.Espresso{
+    position: absolute;
+        width: 212px;
+        height: 285px;
+        top: 1645px;
+        left: 5080px;
+        background-color:rgb(178, 231, 219);
+    
+    }
+
+    .Espresso:hover{
+    
+        background-color:rgba(10, 119, 95, 1);
+        color: aliceblue;
+    }
+
+    .Espresso h2{
+        position: absolute;
+            font-size:24px;
+           left: 15px; 
+           top: 20px;
+        }
+
+        .Espresso p{
+            position: absolute;
+                font-size:24px;
+               left: 15px; 
+            top: 60px;
+            }
+
+
+.maim2-button6{
+    border: 2px solid rgba(10, 119, 95, 1);
+    background-color: rgba(10, 119, 98, 1); 
+    width: 190px;
+    height: 70px;
+    top: 2862px;
+    left: 5100px;
+    border-radius: 100px;
+    gap: 10px;  
+    position: absolute;
+
+}
+
+.maim2-button6 a {
+    color: white;
+position:absolute;
+top: 18px;
+left: 15px;
+font-size:25px;
+
+}
+
+.maim2-button6:hover {
+    border: 2px solid  rgba(10, 119, 98, 1);
+    color:  rgba(10, 119, 98, 1);
+    background-color: white;
+   color:rgba(10, 119, 98, 1) ;
+}
+
+.maim2-button6:hover a{
+   color:rgba(10, 119, 98, 1) ;
+}
+
+
+.main2-footer{
+    position: absolute;
+    top: 3020px;
+    left:4002px;
+    
+            }
+    
+            .main2-footer1{
+                position: absolute;
+                top: 3080px;
+                left:4052px;
+                
+                        }
+    
+     li {
+         display: inline-block;
+         margin-right: 40px;
+     
+     }
+     
+     
+     a {
+         text-decoration: none;
+         color: black;
+     
+         
+     }
+     
+     a:hover{
+         color:  rgba(210, 49, 102, 1);
+     
+     }
+     
+     a:active {
+         color: rgb(0, 60, 255);
+     }
+     
+     
+     .main2-nav1 {
+    position:absolute;
+    top: 3080px;
+     left: 4502px;
+    z-index: 9;
+width: 500px;     
+}
+    
+    
+             li {
+                display: inline-block;
+                margin-right: 30px;
+            
+            }
+            
+       
+            .main2-footer-img {
+           position:absolute;
+           top: 3080px;
+            left: 5202px;
+           z-index: 9;
+            width: 300px;
+        }
+
+
+        /* main3 */
+
+
+
+        .main3-img{
+                     
+            position: absolute; 
+         width:1475px;
+         top:-10px;
+         height: 800px;
+         left: 5900px;
+         }
+         
+         .main3-group{
+             width: 235px;
+             height: 24px;
+             top: 30px;
+             left: 50px;
+             position: absolute;
+         }
+         
+         
+         li {
+             display: inline-block;
+             margin-right: 40px;
+         
+         }
+         
+         
+         a {
+             text-decoration: none;
+             color: black;
+         
+             
+         }
+         
+         a:hover{
+             color:  rgba(210, 49, 102, 1);
+         
+         }
+         
+         a:active {
+             color: rgb(0, 60, 255);
+         }
+         
+         
+         .main3-nav-li {
+         top: -90px;
+         left: 6850px;
+         position: relative;
+         }
+
+         .main3-hero{
+          width: 710px;
+          height: 689px;
+          top: 100px;
+          left: 6630px;
+      position: absolute;
+      }
+      
+      .main3-hero-img{
+          width: 160px;
+          height: 160px;
+          top: 40px;
+          left: 6570px;
+      position: absolute;
+      
+      }
+      
+      .main3-h1{
+          width: 390px;
+          top: 220px;
+          left: 6150px;
+          position: absolute;
+      font-size:64px;
+      
+      }
+      
+      .main3-p{
+          width: 390px;
+          height: 72px;;
+          top: 350px;
+          left: 6150px;
+          position: absolute;
+      font-size:18px;
+      
+      }
+      
+      
+      .main3-button {
+          border: 2px solid rgba(10, 119, 95, 1);
+          background-color: rgba(10, 119, 98, 1); 
+          width: 193px;
+          height: 51px;
+          top: 580px;
+          left: 6150px;
+          border-radius: 100px;
+          gap: 10px;  position: absolute;
+      }
+      
+      .main3-button a {
+          color: white;
+      position:absolute;
+      top: 10px;
+      left: 10px;
+      font-size:25px;
+      
+      }
+      
+      .main3-button:hover {
+          border: 2px solid  rgba(10, 119, 98, 1);
+          color:  rgba(10, 119, 98, 1);
+          background-color: white;
+         color:rgba(10, 119, 98, 1) ;
+      }
+      
+      .main3-button:hover a{
+         color:rgba(10, 119, 98, 1) ;
+      } 
+      
+      .main3-image{
+          position: absolute;
+          width: 1470px;
+          height: 650px;
+          top: 820px;
+          left: 5900px;
+          
+          }
+
+          .main3-checkbox{
+              position: absolute;
+              width: 55px;
+              height: 55px;
+              top: 901px;
+              left: 5931px;
+              
+              
+              }
+              
+              
+              .main3-checkbox1{
+                position: absolute;
+                width: 55px;
+                height: 55px;
+                top: 901px;
+                left: 6408px;
+                  }
+              
+                  .main3-checkbox2{
+                      position: absolute;
+                      width: 55px;
+                      height: 55px;
+                      top: 901px;
+                      left: 6884px;
+                      
+                      
+                      }
+
+
+                      .main3-img-3{
+                        position: absolute;
+                        top: 1500px;
+                        left: 5900px;
+                        
+                        }
+
+
+
+
+
+                        .Capsule2{
+                            position: absolute;
+                                width: 209px;
+                                height: 222px;
+                                top: 1615px;
+                                left: 6516px;
+                                background-color:rgb(178, 231, 219);
+                            
+                            }
+                            
+                            .Capsule2:hover{
+                                
+                                    background-color:rgba(10, 119, 95, 1);
+                                    color: aliceblue;
+                                }
+                            
+                                .Capsule2 h2{
+                                    position: absolute;
+                                        font-size:24px;
+                                       left: 15px; 
+                                       top: 20px;
+                                    }
+                            
+                                    .Capsule2 p{
+                                        position: absolute;
+                                            font-size:24px;
+                                           left: 15px; 
+                                        top: 60px;
+                                        }
+
+                        .Filter2{
+                            position: absolute;
+                            width: 209px;
+                            height: 222px;
+                            top: 1615px;
+                            left: 6742px;
+                            background-color:rgb(178, 231, 219);
+                        
+                            }
+                        
+                            .Filter2:hover{
+                            
+                                background-color:rgba(10, 119, 95, 1);
+                            color: aliceblue;
+                            }
+                        
+                            .Filter2 h2{
+                                position: absolute;
+                                    font-size:24px;
+                                   left: 15px; 
+                                   top: 20px;
+                                }
+                        
+                                .Filter2 p{
+                                    position: absolute;
+                                        font-size:24px;
+                                       left: 15px; 
+                                    top: 60px;
+                                    }
+                        
+                        
+                        .Espresso2{
+                            position: absolute;
+                            width: 209px;
+                            height: 222px;
+                            top: 1615px;
+                            left: 6968px;
+                            background-color:rgb(178, 231, 219);
+                        
+                            }
+                        
+                            .Espresso2:hover{
+                            
+                                background-color:rgba(10, 119, 95, 1);
+                                color: aliceblue;
+                            }
+                        
+                            .Espresso2 h2{
+                                position: absolute;
+                                    font-size:24px;
+                                   left: 15px; 
+                                   top: 20px;
+                                }
+                        
+                                .Espresso2 p{
+                                    position: absolute;
+                                        font-size:24px;
+                                       left: 15px; 
+                                    top: 60px;
+                                    }
+                        
+
+
+
+                                    .Single-Origin{
+                                        position: absolute;
+                                            width: 209px;
+                                            height: 222px;
+                                            top: 1962px;
+                                            left: 6516px;
+                                            background-color:rgb(178, 231, 219);
+                                        
+                                        }
+                                        
+                                        .Single-Origin:hover{
+                                            
+                                                background-color:rgba(10, 119, 95, 1);
+                                                color: aliceblue;
+                                            }
+                                        
+                                            .Single-Origin h2{
+                                                position: absolute;
+                                                    font-size:24px;
+                                                   left: 15px; 
+                                                   top: 20px;
+                                                }
+                                        
+                                                .Single-Origin p{
+                                                    position: absolute;
+                                                        font-size:24px;
+                                                       left: 15px; 
+                                                    top: 60px;
+                                                    }
+            
+                                    .Decaf{
+                                        position: absolute;
+                                        width: 209px;
+                                        height: 222px;
+                                        top: 1962px;
+                                        left: 6742px;
+                                        background-color:rgb(178, 231, 219);
+                                    
+                                        }
+                                    
+                                        .Decaf:hover{
+                                        
+                                            background-color:rgba(10, 119, 95, 1);
+                                        color: aliceblue;
+                                        }
+                                    
+                                        .Decaf h2{
+                                            position: absolute;
+                                                font-size:24px;
+                                               left: 15px; 
+                                               top: 20px;
+                                            }
+                                    
+                                            .Decaf p{
+                                                position: absolute;
+                                                    font-size:24px;
+                                                   left: 15px; 
+                                                top: 60px;
+                                                }
+                                    
+                                    
+                                    .Blended{
+                                        position: absolute;
+                                        width: 209px;
+                                        height: 222px;
+                                        top: 1962px;
+                                        left: 6968px;
+                                        background-color:rgb(178, 231, 219);
+                                    
+                                        }
+                                    
+                                        .Blended:hover{
+                                        
+                                            background-color:rgba(10, 119, 95, 1);
+                                            color: aliceblue;
+                                        }
+                                    
+                                        .Blended h2{
+                                            position: absolute;
+                                                font-size:24px;
+                                               left: 15px; 
+                                               top: 20px;
+                                            }
+                                    
+                                            .Blended p{
+                                                position: absolute;
+                                                    font-size:24px;
+                                                   left: 15px; 
+                                                top: 60px;
+                                                }
+
+
+
+
+
+                                                .g250{
+                                                    position: absolute;
+                                                        width: 209px;
+                                                        height: 222px;
+                                                        top: 2310px;
+                                                        left: 6516px;
+                                                        background-color:rgb(178, 231, 219);
+                                                    
+                                                    }
+                                                    
+                                                    .g250:hover{
+                                                        
+                                                            background-color:rgba(10, 119, 95, 1);
+                                                            color: aliceblue;
+                                                        }
+                                                    
+                                                        .g250 h2{
+                                                            position: absolute;
+                                                                font-size:24px;
+                                                               left: 15px; 
+                                                               top: 20px;
+                                                            }
+                                                    
+                                                            .g250 p{
+                                                                position: absolute;
+                                                                    font-size:24px;
+                                                                   left: 15px; 
+                                                                top: 60px;
+                                                                }
+                        
+                                                .g500{
+                                                    position: absolute;
+                                                    width: 209px;
+                                                    height: 222px;
+                                                    top: 2310px;
+                                                    left: 6742px;
+                                                    background-color:rgb(178, 231, 219);
+                                                
+                                                    }
+                                                
+                                                    .g500:hover{
+                                                    
+                                                        background-color:rgba(10, 119, 95, 1);
+                                                    color: aliceblue;
+                                                    }
+                                                
+                                                    .g500 h2{
+                                                        position: absolute;
+                                                            font-size:24px;
+                                                           left: 15px; 
+                                                           top: 20px;
+                                                        }
+                                                
+                                                        .g500 p{
+                                                            position: absolute;
+                                                                font-size:24px;
+                                                               left: 15px; 
+                                                            top: 60px;
+                                                            }
+                                                
+                                                
+                                                .g1000{
+                                                    position: absolute;
+                                                    width: 209px;
+                                                    height: 222px;
+                                                    top: 2310px;
+                                                    left: 6968px;
+                                                    background-color:rgb(178, 231, 219);
+                                                
+                                                    }
+                                                
+                                                    .g1000:hover{
+                                                    
+                                                        background-color:rgba(10, 119, 95, 1);
+                                                        color: aliceblue;
+                                                    }
+                                                
+                                                    .g1000 h2{
+                                                        position: absolute;
+                                                            font-size:24px;
+                                                           left: 15px; 
+                                                           top: 20px;
+                                                        }
+                                                
+                                                        .g1000 p{
+                                                            position: absolute;
+                                                                font-size:24px;
+                                                               left: 15px; 
+                                                            top: 60px;
+                                                            }
+
+
+
+
+
+
+                                                            .Wholebean{
+                                                                position: absolute;
+                                                                    width: 209px;
+                                                                    height: 222px;
+                                                                    top: 2658px;
+                                                                    left: 6516px;
+                                                                    background-color:rgb(178, 231, 219);
+                                                                
+                                                                }
+                                                                
+                                                                .Wholebean:hover{
+                                                                    
+                                                                        background-color:rgba(10, 119, 95, 1);
+                                                                        color: aliceblue;
+                                                                    }
+                                                                
+                                                                    .Wholebean h2{
+                                                                        position: absolute;
+                                                                            font-size:24px;
+                                                                           left: 15px; 
+                                                                           top: 20px;
+                                                                        }
+                                                                
+                                                                        .Wholebean p{
+                                                                            position: absolute;
+                                                                                font-size:24px;
+                                                                               left: 15px; 
+                                                                            top: 60px;
+                                                                            }
+                                    
+                                                            .Filter3{
+                                                                position: absolute;
+                                                                width: 209px;
+                                                                height: 222px;
+                                                                top: 2658px;
+                                                                left: 6742px;
+                                                                background-color:rgb(178, 231, 219);
+                                                            
+                                                                }
+                                                            
+                                                                .Filter3:hover{
+                                                                
+                                                                    background-color:rgba(10, 119, 95, 1);
+                                                                color: aliceblue;
+                                                                }
+                                                            
+                                                                .Filter3 h2{
+                                                                    position: absolute;
+                                                                        font-size:24px;
+                                                                       left: 15px; 
+                                                                       top: 20px;
+                                                                    }
+                                                            
+                                                                    .Filter3 p{
+                                                                        position: absolute;
+                                                                            font-size:24px;
+                                                                           left: 15px; 
+                                                                        top: 60px;
+                                                                        }
+                                                            
+                                                            
+                                                            .Cafetiére{
+                                                                position: absolute;
+                                                                width: 209px;
+                                                                height: 222px;
+                                                                top: 2658px;
+                                                                left: 6968px;
+                                                                background-color:rgb(178, 231, 219);
+                                                            
+                                                                }
+                                                            
+                                                                .Cafetiére:hover{
+                                                                
+                                                                    background-color:rgba(10, 119, 95, 1);
+                                                                    color: aliceblue;
+                                                                }
+                                                            
+                                                                .Cafetiére h2{
+                                                                    position: absolute;
+                                                                        font-size:24px;
+                                                                       left: 15px; 
+                                                                       top: 20px;
+                                                                    }
+                                                            
+                                                                    .Cafetiére p{
+                                                                        position: absolute;
+                                                                            font-size:24px;
+                                                                           left: 15px; 
+                                                                        top: 60px;
+                                                                        }
+
+
+
+
+
+
+
+                                                                        .Every-week{
+                                                                            position: absolute;
+                                                                                width: 209px;
+                                                                                height: 222px;
+                                                                                top: 3005px;
+                                                                                left: 6516px;
+                                                                                background-color:rgb(178, 231, 219);
+                                                                            
+                                                                            }
+                                                                            
+                                                                            .Every-week:hover{
+                                                                                
+                                                                                    background-color:rgba(10, 119, 95, 1);
+                                                                                    color: aliceblue;
+                                                                                }
+                                                                            
+                                                                                .Every-week h2{
+                                                                                    position: absolute;
+                                                                                        font-size:24px;
+                                                                                       left: 15px; 
+                                                                                       top: 20px;
+                                                                                    }
+                                                                            
+                                                                                    .Every-week p{
+                                                                                        position: absolute;
+                                                                                            font-size:24px;
+                                                                                           left: 15px; 
+                                                                                        top: 60px;
+                                                                                        }
+                                                
+                                                                        .Every2{
+                                                                            position: absolute;
+                                                                            width: 209px;
+                                                                            height: 222px;
+                                                                            top: 3005px;
+                                                                            left: 6742px;
+                                                                            background-color:rgb(178, 231, 219);
+                                                                        
+                                                                            }
+                                                                        
+                                                                            .Every2:hover{
+                                                                            
+                                                                                background-color:rgba(10, 119, 95, 1);
+                                                                            color: aliceblue;
+                                                                            }
+                                                                        
+                                                                            .Every2 h2{
+                                                                                position: absolute;
+                                                                                    font-size:24px;
+                                                                                   left: 15px; 
+                                                                                   top: 20px;
+                                                                                }
+                                                                        
+                                                                                .Every2 p{
+                                                                                    position: absolute;
+                                                                                        font-size:24px;
+                                                                                       left: 15px; 
+                                                                                    top: 60px;
+                                                                                    }
+                                                                        
+                                                                        
+                                                                        .Every-month{
+                                                                            position: absolute;
+                                                                            width: 209px;
+                                                                            height: 222px;
+                                                                            top: 3005px;
+                                                                            left: 6968px;
+                                                                            background-color:rgb(178, 231, 219);
+                                                                        
+                                                                            }
+                                                                        
+                                                                            .Every-month:hover{
+                                                                            
+                                                                                background-color:rgba(10, 119, 95, 1);
+                                                                                color: aliceblue;
+                                                                            }
+                                                                        
+                                                                            .Every-month h2{
+                                                                                position: absolute;
+                                                                                    font-size:24px;
+                                                                                   left: 15px; 
+                                                                                   top: 20px;
+                                                                                }
+                                                                        
+                                                                                .Every-month p{
+                                                                                    position: absolute;
+                                                                                        font-size:24px;
+                                                                                       left: 15px; 
+                                                                                    top: 60px;
+                                                                                    }
+            
+            
+                                                                                    .maim3-button6{
+                                                                                        border: 2px solid rgba(10, 119, 95, 1);
+                                                                                        background-color: rgba(10, 119, 98, 1); 
+                                                                                        width: 190px;
+                                                                                        height: 70px;
+                                                                                        top: 3525px;
+                                                                                        left: 6990px;
+                                                                                        border-radius: 100px;
+                                                                                        gap: 10px;  
+                                                                                        position: absolute;
+                                                                                    
+                                                                                    }
+                                                                                    
+                                                                                    .maim3-button6 a {
+                                                                                        color: white;
+                                                                                    position:absolute;
+                                                                                    top: 18px;
+                                                                                    left: 15px;
+                                                                                    font-size:25px;
+                                                                                    
+                                                                                    }
+                                                                                    
+                                                                                    .maim3-button6:hover {
+                                                                                        border: 2px solid  rgba(10, 119, 98, 1);
+                                                                                        color:  rgba(10, 119, 98, 1);
+                                                                                        background-color: white;
+                                                                                       color:rgba(10, 119, 98, 1) ;
+                                                                                    }
+                                                                                    
+                                                                                    .maim3-button6:hover a{
+                                                                                       color:rgba(10, 119, 98, 1) ;
+                                                                                    }
+
+
+
+
+
+
+
+                                                                                    .main3-footer{
+                                                                                        position: absolute;
+                                                                                        top: 3650px;
+                                                                                        left:5900px;
+                                                                                        
+                                                                                                }
+                                                                                        
+                                                                                                .main3-footer1{
+                                                                                                    position: absolute;
+                                                                                                    top: 3710px;
+                                                                                                    left:5950px;
+                                                                                                    
+                                                                                                            }
+                                                                                        
+                                                                                         li {
+                                                                                             display: inline-block;
+                                                                                             margin-right: 40px;
+                                                                                         
+                                                                                         }
+                                                                                         
+                                                                                         
+                                                                                         a {
+                                                                                             text-decoration: none;
+                                                                                             color: black;
+                                                                                         
+                                                                                             
+                                                                                         }
+                                                                                         
+                                                                                         a:hover{
+                                                                                             color:  rgba(210, 49, 102, 1);
+                                                                                         
+                                                                                         }
+                                                                                         
+                                                                                         a:active {
+                                                                                             color: rgb(0, 60, 255);
+                                                                                         }
+                                                                                         
+                                                                                         
+                                                                                         .main3-nav1 {
+                                                                                        position:absolute;
+                                                                                        top: 3700px;
+                                                                                         left: 6502px;
+                                                                                        z-index: 9;
+                                                                                    width: 500px;     
+                                                                                    }
+                                                                                        
+                                                                                        
+                                                                                                 li {
+                                                                                                    display: inline-block;
+                                                                                                    margin-right: 30px;
+                                                                                                
+                                                                                                }
+                                                                                                
+                                                                                           
+                                                                                                .main3-footer-img {
+                                                                                               position:absolute;
+                                                                                               top: 3700px;
+                                                                                                left: 7100px;
+                                                                                               z-index: 9;
+                                                                                                width: 300px;
+                                                                                            }
+
+
+
+/* man4 */
+
+
+.main4 img{
+position: absolute;
+width: 1440px;
+height: 800px;
+left: 7800px;
+top: 0px;
+
+}
+
+.button{
+    border: 2px solid rgba(10, 119, 95, 1);
+    background-color: rgba(10, 119, 98, 1); 
+    width: 145px;
+    height: 51px;
+    top: 537px;
+    left: 8622px;
+    border-radius: 100px;
+    gap: 10px;  position: absolute;
+}
+
+.button a {
+    color: white;
+position:absolute;
+top: 10px;
+left: 25px;
+font-size:25px;
+
+}
+
+.button:hover {
+    border: 2px solid  rgba(10, 119, 98, 1);
+    background-color: white;
+
+}
+
+.button:hover a{
+   color:rgba(10, 119, 98, 1) ;
+} 
+
+
+
+
+
+
+
+
+
+
+
